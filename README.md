@@ -7,10 +7,12 @@
 | [0001-two-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0001-two-sum/) | Easy |
 | [0136-single-number](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0136-single-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0001-two-sum/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +25,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1331-rank-transform-of-an-array/) | Easy |
 <!---LeetCode Topics End-->
