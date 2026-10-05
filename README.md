@@ -33,4 +33,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0118-pascals-triangle/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
