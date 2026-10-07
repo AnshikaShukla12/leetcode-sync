@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0009-palindrome-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
