@@ -18,6 +18,7 @@
 | [0905-sort-array-by-parity](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1720-decode-xored-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 ## Hash Table
@@ -45,6 +46,7 @@
 | [0016-3sum-closest](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0016-3sum-closest/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 ## Dynamic Programming
@@ -64,6 +66,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,10 +80,15 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
