@@ -61,6 +61,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0009-palindrome-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
@@ -71,6 +72,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0367-valid-perfect-square](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Matrix
