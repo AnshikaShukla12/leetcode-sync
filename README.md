@@ -19,6 +19,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1720-decode-xored-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 ## Hash Table
@@ -91,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
