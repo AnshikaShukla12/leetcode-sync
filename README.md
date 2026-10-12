@@ -21,6 +21,7 @@
 | [1720-decode-xored-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1720-decode-xored-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -30,11 +31,13 @@
 | [0001-two-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0041-first-missing-positive/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0136-single-number/) | Easy |
 | [1720-decode-xored-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1720-decode-xored-array/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 ## Game Theory
