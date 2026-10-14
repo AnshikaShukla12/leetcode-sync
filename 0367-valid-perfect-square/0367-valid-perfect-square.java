@@ -3,18 +3,11 @@ class Solution {
         long i=0;
         long n=(long)num;
         while(i<=n){
-            long mid=(i+n)/2;
-            long sq=mid*mid;
-            if(sq==(long)num)return true;
-            else if(sq<num)i=mid+1;
-            else n=mid-1;
+            if(i*i==(long)num)return true;
+            if(n*n==(long)num)return true;
+            i++;
+            n--;
         }
-        // while(i<=n){
-        //     if(i*i==(long)num)return true;
-        //     if(n*n==(long)num)return true;
-        //     i++;
-        //     n--;
-        // }
         return false;
     }
 }
