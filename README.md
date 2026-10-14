@@ -72,6 +72,7 @@
 | [0633-sum-of-square-numbers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
