@@ -45,6 +45,7 @@
 | [0015-3sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0905-sort-array-by-parity/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -119,4 +120,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
