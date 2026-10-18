@@ -73,6 +73,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0009-palindrome-number/) | Easy |
+| [0043-multiply-strings](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0043-multiply-strings/) | Medium |
 | [0367-valid-perfect-square](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -129,6 +130,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0043-multiply-strings](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0043-multiply-strings/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,5 +150,6 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0043-multiply-strings/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0059-spiral-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
