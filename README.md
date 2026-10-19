@@ -20,6 +20,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1720-decode-xored-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1720-decode-xored-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -59,6 +60,7 @@
 | [0016-3sum-closest](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0016-3sum-closest/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -88,6 +90,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0367-valid-perfect-square](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
