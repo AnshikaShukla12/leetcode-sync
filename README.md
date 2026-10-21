@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0041-first-missing-positive/) | Hard |
+| [0053-maximum-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0053-maximum-subarray/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -70,6 +71,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0118-pascals-triangle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -105,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0053-maximum-subarray/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
