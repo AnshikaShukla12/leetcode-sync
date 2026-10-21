@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0041-first-missing-positive/) | Hard |
 | [0059-spiral-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0066-plus-one](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0118-pascals-triangle](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0136-single-number/) | Easy |
@@ -76,6 +77,7 @@
 | [0007-reverse-integer](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0043-multiply-strings/) | Medium |
+| [0066-plus-one](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0066-plus-one/) | Easy |
 | [0367-valid-perfect-square](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
