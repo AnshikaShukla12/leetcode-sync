@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0041-first-missing-positive/) | Hard |
+| [0046-permutations](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0053-maximum-subarray/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -165,5 +166,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
