@@ -88,6 +88,7 @@
 | [0367-valid-perfect-square](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [2409-count-days-spent-together](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2409-count-days-spent-together/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Binary Search
@@ -145,6 +146,7 @@
 | [0008-string-to-integer-atoi](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0043-multiply-strings/) | Medium |
+| [2409-count-days-spent-together](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2409-count-days-spent-together/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
