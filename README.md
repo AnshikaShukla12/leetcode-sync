@@ -17,6 +17,7 @@
 | [0059-spiral-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0090-subsets-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0136-single-number/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -48,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0029-divide-two-integers/) | Medium |
+| [0090-subsets-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0136-single-number/) | Easy |
 | [1720-decode-xored-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1720-decode-xored-array/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -180,6 +182,7 @@
 | ------- | ------- |
 | [0046-permutations](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0047-permutations-ii/) | Medium |
+| [0090-subsets-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0090-subsets-ii/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
