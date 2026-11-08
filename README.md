@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0053-maximum-subarray/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0090-subsets-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0118-pascals-triangle/) | Easy |
@@ -41,6 +42,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0041-first-missing-positive/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -114,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
