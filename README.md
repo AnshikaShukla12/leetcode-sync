@@ -33,6 +33,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -153,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,4 +197,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
