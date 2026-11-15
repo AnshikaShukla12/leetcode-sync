@@ -24,6 +24,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1720-decode-xored-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1720-decode-xored-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -87,6 +88,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0118-pascals-triangle/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@
 | [0066-plus-one](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0066-plus-one/) | Easy |
 | [0367-valid-perfect-square](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2409-count-days-spent-together](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2409-count-days-spent-together/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -153,6 +156,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## String
