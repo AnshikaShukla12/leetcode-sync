@@ -165,6 +165,7 @@
 | [0008-string-to-integer-atoi](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0043-multiply-strings/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2409-count-days-spent-together/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -187,6 +188,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0043-multiply-strings/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
