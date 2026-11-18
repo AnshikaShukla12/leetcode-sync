@@ -1,11 +1,14 @@
 class Solution {
     public String digitSum(String s, int k) {
-        while (s.length() > k) {
-            StringBuilder next = new StringBuilder();
-            for (int i = 0; i < s.length(); i += k)
-                next.append(s.substring(i, Math.min(i + k, s.length())).chars().map(d -> d - '0').sum());  // the digit sum of one group
-            s = next.toString();
+        if(s.length()<=k)return s;
+        StringBuilder sb=new StringBuilder();
+        for(int i=0;i<s.length();i+=k){
+            int sum=0;
+            for(int j=0;j<k && (i+j)<s.length();j++){
+                sum+=s.charAt(i+j)-'0';
+            }
+            sb.append(sum);
         }
-        return s;
+        return digitSum(sb.toString(),k);
     }
 }
