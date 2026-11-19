@@ -54,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0067-add-binary/) | Easy |
 | [0090-subsets-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0136-single-number/) | Easy |
 | [1720-decode-xored-array](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1720-decode-xored-array/) | Easy |
@@ -98,6 +99,7 @@
 | [0029-divide-two-integers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0067-add-binary/) | Easy |
 | [0367-valid-perfect-square](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -165,6 +167,7 @@
 | [0008-string-to-integer-atoi](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0043-multiply-strings/) | Medium |
+| [0067-add-binary](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0067-add-binary/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2409-count-days-spent-together/) | Easy |
 | [3407-substring-matching-pattern](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3407-substring-matching-pattern/) | Easy |
@@ -190,6 +193,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0043-multiply-strings/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0067-add-binary/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
