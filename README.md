@@ -167,6 +167,7 @@
 | [0008-string-to-integer-atoi](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0043-multiply-strings/) | Medium |
+| [0058-length-of-last-word](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0067-add-binary/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2409-count-days-spent-together/) | Easy |
