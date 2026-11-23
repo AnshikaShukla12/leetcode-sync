@@ -89,6 +89,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0118-pascals-triangle/) | Easy |
+| [0233-number-of-digit-one](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0233-number-of-digit-one/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
@@ -100,6 +101,7 @@
 | [0043-multiply-strings](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0067-add-binary/) | Easy |
+| [0233-number-of-digit-one](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0233-number-of-digit-one/) | Hard |
 | [0367-valid-perfect-square](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -231,4 +233,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0112-path-sum/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0233-number-of-digit-one](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0233-number-of-digit-one/) | Hard |
 <!---LeetCode Topics End-->
