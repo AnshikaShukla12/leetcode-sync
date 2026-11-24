@@ -35,6 +35,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3107-minimum-operations-to-make-median-of-array-equal-to-k/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -108,6 +109,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2409-count-days-spent-together](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2409-count-days-spent-together/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Binary Search
@@ -157,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +220,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,4 +241,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0233-number-of-digit-one](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0233-number-of-digit-one/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
