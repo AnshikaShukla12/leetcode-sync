@@ -109,6 +109,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2409-count-days-spent-together](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2409-count-days-spent-together/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3360-stone-removal-game](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -202,6 +203,7 @@
 | [0059-spiral-matrix-ii](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0067-add-binary/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3360-stone-removal-game/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
