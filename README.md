@@ -41,6 +41,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@
 | [0233-number-of-digit-one](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/0233-number-of-digit-one/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AnshikaShukla12/leetcode-sync/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
